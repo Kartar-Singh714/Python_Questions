@@ -36,7 +36,7 @@ check_prime(int(num))
 # is_prime = True
 # #def check_pr(num):
 # if num>2:
-#     for i in range(2, ceil(num/2)-1):
+#     for i in range(2, int(num**0.5)+1):
 #         if num % i == 0:
 #             is_prime = False
 # else:
