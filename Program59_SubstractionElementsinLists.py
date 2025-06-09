@@ -11,7 +11,7 @@ if len(l1) == len(l2):
         if l1[i].replace(".", "").isdigit() and l2[i].replace(".", "").isdigit():
             l1[i] = float(l1[i])
             l2[i] = float(l2[i])
-            sm = l1[i]+l2[i]
+            sm = l1[i]-l2[i]
             l3.append(sm)
         else:
             print("Invalid numbers in the list")

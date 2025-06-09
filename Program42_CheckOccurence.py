@@ -1,5 +1,5 @@
 #Check occurence
-text = "cat"
+text = "catinahat"
 str1 ="cat"
 str2 = "hat"
 def checkOccurence(str1,str2):

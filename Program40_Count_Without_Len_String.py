@@ -7,5 +7,5 @@ for i in st:
         st.replace(" ", "")
         l-=1
     l1+=1
-print(f"The length of the string is {l}")
-print(f"The length of the string without whitespaces is {l1}")
+print(f"The count of the string is {l}")
+print(f"The count of the string without whitespaces is {l1}")
