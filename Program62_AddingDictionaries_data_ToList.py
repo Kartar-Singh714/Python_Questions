@@ -11,7 +11,7 @@ student_data = [
      }
 ]
 
-# Function to add new students
+# Function to add new student data
 def add_new_student(datalist, name, roll, age, course):
     datalist.append(
         {'name': name,
