@@ -15,3 +15,8 @@ if normal_s == pal:
     print("True")
 else:
     print("False")
+
+
+
+
+
